@@ -1,0 +1,90 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+a{
+    color: #11999E;
+}
+h1{
+    font-size: 5.625em;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.top-container{
+    padding-top: 100px;
+    background-color: #E4F9F5;
+    position: relative;
+}
+
+.pic{
+    height: 200px;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right:400px;
+    top:100px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.webPic{
+    float:left;
+    width: 45%;
+    padding-right: 30px;
+}
+.soccer{
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color:#91bebe;
+    margin: 100px auto 100px auto;
+}
+.btn{
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.bottom-container{
+    padding-top: 60px;
+    background-color: #66BFBF;
+}
+
